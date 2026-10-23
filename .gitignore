@@ -1,0 +1,28 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# SQLite Database & Trade Data
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+trading.db
+
+# Private License Dat & Developer Keys
+tradesmart_license.dat
+scrip_master_cache.json
+

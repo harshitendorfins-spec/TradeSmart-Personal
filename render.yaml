@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: tradesmart-personal
+    env: docker
+    region: singapore
+    plan: free
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: DB_PATH
+        value: personal_trading.db
+      - key: ANGEL_API_KEY
+        value: PEe8Kyfq
+      - key: ANGEL_CLIENT_ID
+        value: H186582
+      - key: ANGEL_MPIN
+        value: "8841"
+      - key: ANGEL_TOTP_SECRET
+        value: FVES4ZL52QW5LHF73I4OXSOHHE

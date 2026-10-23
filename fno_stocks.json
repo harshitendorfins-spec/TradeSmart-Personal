@@ -1,0 +1,1388 @@
+[
+  {
+    "symbol": "011NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "021NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "031NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "041NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "051NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "061NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "071NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "081NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "091NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "101NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "111NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "121NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "131NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "141NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "151NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "161NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "171NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "181NSETEST",
+    "lotSize": 50,
+    "strikeStep": 50,
+    "approxPrice": 1000
+  },
+  {
+    "symbol": "360ONE",
+    "lotSize": 500,
+    "strikeStep": 20.0,
+    "approxPrice": 1100.0
+  },
+  {
+    "symbol": "ABB",
+    "lotSize": 125,
+    "strikeStep": 100.0,
+    "approxPrice": 7200.0
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "lotSize": 3100,
+    "strikeStep": 5.0,
+    "approxPrice": 390.0
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "lotSize": 675,
+    "strikeStep": 20.0,
+    "approxPrice": 1400.0
+  },
+  {
+    "symbol": "ADANIENT",
+    "lotSize": 309,
+    "strikeStep": 50.0,
+    "approxPrice": 2900.0
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "lotSize": 600,
+    "strikeStep": 20.0,
+    "approxPrice": 1260.0
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "lotSize": 475,
+    "strikeStep": 20.0,
+    "approxPrice": 1740.0
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "lotSize": 3550,
+    "strikeStep": 2.5,
+    "approxPrice": 195.0
+  },
+  {
+    "symbol": "ALKEM",
+    "lotSize": 125,
+    "strikeStep": 50.0,
+    "approxPrice": 5300.0
+  },
+  {
+    "symbol": "AMBER",
+    "lotSize": 100,
+    "strikeStep": 100.0,
+    "approxPrice": 6900.0
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "lotSize": 1200,
+    "strikeStep": 5.0,
+    "approxPrice": 380.0
+  },
+  {
+    "symbol": "ANANDRATHI",
+    "lotSize": 250,
+    "strikeStep": 20.0,
+    "approxPrice": 2080.0
+  },
+  {
+    "symbol": "ANGELONE",
+    "lotSize": 2500,
+    "strikeStep": 5.0,
+    "approxPrice": 290.0
+  },
+  {
+    "symbol": "APLAPOLLO",
+    "lotSize": 350,
+    "strikeStep": 20.0,
+    "approxPrice": 2160.0
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "lotSize": 125,
+    "strikeStep": 100.0,
+    "approxPrice": 8300.0
+  },
+  {
+    "symbol": "ASHOKLEY",
+    "lotSize": 5000,
+    "strikeStep": 2.5,
+    "approxPrice": 162.5
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "lotSize": 250,
+    "strikeStep": 20.0,
+    "approxPrice": 2480.0
+  },
+  {
+    "symbol": "ASTRAL",
+    "lotSize": 425,
+    "strikeStep": 20.0,
+    "approxPrice": 1440.0
+  },
+  {
+    "symbol": "ATHERENERG",
+    "lotSize": 375,
+    "strikeStep": 20.0,
+    "approxPrice": 1560.0
+  },
+  {
+    "symbol": "AUBANK",
+    "lotSize": 1000,
+    "strikeStep": 10.0,
+    "approxPrice": 1020.0
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "lotSize": 550,
+    "strikeStep": 20.0,
+    "approxPrice": 1680.0
+  },
+  {
+    "symbol": "AXISBANK",
+    "lotSize": 625,
+    "strikeStep": 10.0,
+    "approxPrice": 1240.0
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "lotSize": 75,
+    "strikeStep": 100.0,
+    "approxPrice": 10700.0
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "lotSize": 300,
+    "strikeStep": 20.0,
+    "approxPrice": 1860.0
+  },
+  {
+    "symbol": "BAJAJHLDNG",
+    "lotSize": 75,
+    "strikeStep": 100.0,
+    "approxPrice": 10900.0
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "lotSize": 750,
+    "strikeStep": 10.0,
+    "approxPrice": 1010.0
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "lotSize": 3600,
+    "strikeStep": 2.5,
+    "approxPrice": 170.0
+  },
+  {
+    "symbol": "BANKBARODA",
+    "lotSize": 2925,
+    "strikeStep": 2.5,
+    "approxPrice": 235.0
+  },
+  {
+    "symbol": "BANKINDIA",
+    "lotSize": 5200,
+    "strikeStep": 2.5,
+    "approxPrice": 137.5
+  },
+  {
+    "symbol": "BDL",
+    "lotSize": 425,
+    "strikeStep": 20.0,
+    "approxPrice": 1200.0
+  },
+  {
+    "symbol": "BEL",
+    "lotSize": 1425,
+    "strikeStep": 5.0,
+    "approxPrice": 390.0
+  },
+  {
+    "symbol": "BHARATFORG",
+    "lotSize": 500,
+    "strikeStep": 20.0,
+    "approxPrice": 1940.0
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "lotSize": 475,
+    "strikeStep": 20.0,
+    "approxPrice": 1840.0
+  },
+  {
+    "symbol": "BHEL",
+    "lotSize": 2625,
+    "strikeStep": 5.0,
+    "approxPrice": 435.0
+  },
+  {
+    "symbol": "BIOCON",
+    "lotSize": 2500,
+    "strikeStep": 5.0,
+    "approxPrice": 380.0
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "lotSize": 325,
+    "strikeStep": 20.0,
+    "approxPrice": 1520.0
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "lotSize": 25,
+    "strikeStep": 500.0,
+    "approxPrice": 45500.0
+  },
+  {
+    "symbol": "BPCL",
+    "lotSize": 1975,
+    "strikeStep": 5.0,
+    "approxPrice": 305.0
+  },
+  {
+    "symbol": "BRITANNIA",
+    "lotSize": 125,
+    "strikeStep": 50.0,
+    "approxPrice": 5000.0
+  },
+  {
+    "symbol": "BSE",
+    "lotSize": 200,
+    "strikeStep": 50.0,
+    "approxPrice": 3250.0
+  },
+  {
+    "symbol": "CAMS",
+    "lotSize": 825,
+    "strikeStep": 10.0,
+    "approxPrice": 720.0
+  },
+  {
+    "symbol": "CANBK",
+    "lotSize": 6750,
+    "strikeStep": 0.5,
+    "approxPrice": 122.5
+  },
+  {
+    "symbol": "CDSL",
+    "lotSize": 475,
+    "strikeStep": 20.0,
+    "approxPrice": 1340.0
+  },
+  {
+    "symbol": "CGPOWER",
+    "lotSize": 850,
+    "strikeStep": 10.0,
+    "approxPrice": 880.0
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "lotSize": 625,
+    "strikeStep": 20.0,
+    "approxPrice": 1700.0
+  },
+  {
+    "symbol": "CIPLA",
+    "lotSize": 425,
+    "strikeStep": 10.0,
+    "approxPrice": 1360.0
+  },
+  {
+    "symbol": "COALINDIA",
+    "lotSize": 1350,
+    "strikeStep": 5.0,
+    "approxPrice": 420.0
+  },
+  {
+    "symbol": "COCHINSHIP",
+    "lotSize": 400,
+    "strikeStep": 20.0,
+    "approxPrice": 1380.0
+  },
+  {
+    "symbol": "COFORGE",
+    "lotSize": 475,
+    "strikeStep": 20.0,
+    "approxPrice": 1860.0
+  },
+  {
+    "symbol": "COLPAL",
+    "lotSize": 275,
+    "strikeStep": 20.0,
+    "approxPrice": 1840.0
+  },
+  {
+    "symbol": "CONCOR",
+    "lotSize": 1250,
+    "strikeStep": 5.0,
+    "approxPrice": 465.0
+  },
+  {
+    "symbol": "CROMPTON",
+    "lotSize": 2150,
+    "strikeStep": 2.5,
+    "approxPrice": 220.0
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "lotSize": 200,
+    "strikeStep": 50.0,
+    "approxPrice": 4900.0
+  },
+  {
+    "symbol": "DABUR",
+    "lotSize": 1250,
+    "strikeStep": 5.0,
+    "approxPrice": 390.0
+  },
+  {
+    "symbol": "DELHIVERY",
+    "lotSize": 2075,
+    "strikeStep": 5.0,
+    "approxPrice": 420.0
+  },
+  {
+    "symbol": "DIVISLAB",
+    "lotSize": 100,
+    "strikeStep": 100.0,
+    "approxPrice": 9300.0
+  },
+  {
+    "symbol": "DIXON",
+    "lotSize": 50,
+    "strikeStep": 250.0,
+    "approxPrice": 13750.0
+  },
+  {
+    "symbol": "DLF",
+    "lotSize": 950,
+    "strikeStep": 10.0,
+    "approxPrice": 670.0
+  },
+  {
+    "symbol": "DMART",
+    "lotSize": 150,
+    "strikeStep": 50.0,
+    "approxPrice": 3700.0
+  },
+  {
+    "symbol": "DRREDDY",
+    "lotSize": 625,
+    "strikeStep": 10.0,
+    "approxPrice": 1200.0
+  },
+  {
+    "symbol": "EICHERMOT",
+    "lotSize": 100,
+    "strikeStep": 100.0,
+    "approxPrice": 7400.0
+  },
+  {
+    "symbol": "ENRIN",
+    "lotSize": 175,
+    "strikeStep": 50.0,
+    "approxPrice": 3250.0
+  },
+  {
+    "symbol": "ETERNAL",
+    "lotSize": 2425,
+    "strikeStep": 5.0,
+    "approxPrice": 325.0
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "lotSize": 2500,
+    "strikeStep": 5.0,
+    "approxPrice": 335.0
+  },
+  {
+    "symbol": "FORCEMOT",
+    "lotSize": 25,
+    "strikeStep": 250.0,
+    "approxPrice": 17250.0
+  },
+  {
+    "symbol": "FORTIS",
+    "lotSize": 775,
+    "strikeStep": 10.0,
+    "approxPrice": 830.0
+  },
+  {
+    "symbol": "GAIL",
+    "lotSize": 3550,
+    "strikeStep": 2.5,
+    "approxPrice": 172.5
+  },
+  {
+    "symbol": "GLENMARK",
+    "lotSize": 375,
+    "strikeStep": 20.0,
+    "approxPrice": 2360.0
+  },
+  {
+    "symbol": "GMRAIRPORT",
+    "lotSize": 6975,
+    "strikeStep": 1.0,
+    "approxPrice": 95.0
+  },
+  {
+    "symbol": "GODFRYPHLP",
+    "lotSize": 275,
+    "strikeStep": 10.0,
+    "approxPrice": 1880.0
+  },
+  {
+    "symbol": "GODREJCP",
+    "lotSize": 500,
+    "strikeStep": 10.0,
+    "approxPrice": 890.0
+  },
+  {
+    "symbol": "GODREJPROP",
+    "lotSize": 325,
+    "strikeStep": 20.0,
+    "approxPrice": 1780.0
+  },
+  {
+    "symbol": "GRASIM",
+    "lotSize": 250,
+    "strikeStep": 20.0,
+    "approxPrice": 3060.0
+  },
+  {
+    "symbol": "GVT&D",
+    "lotSize": 125,
+    "strikeStep": 100.0,
+    "approxPrice": 4300.0
+  },
+  {
+    "symbol": "HAL",
+    "lotSize": 150,
+    "strikeStep": 50.0,
+    "approxPrice": 4800.0
+  },
+  {
+    "symbol": "HAVELLS",
+    "lotSize": 500,
+    "strikeStep": 10.0,
+    "approxPrice": 1100.0
+  },
+  {
+    "symbol": "HCLTECH",
+    "lotSize": 400,
+    "strikeStep": 10.0,
+    "approxPrice": 1270.0
+  },
+  {
+    "symbol": "HDFCAMC",
+    "lotSize": 300,
+    "strikeStep": 10.0,
+    "approxPrice": 2350.0
+  },
+  {
+    "symbol": "HDFCBANK",
+    "lotSize": 650,
+    "strikeStep": 10.0,
+    "approxPrice": 720.0
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "lotSize": 1100,
+    "strikeStep": 5.0,
+    "approxPrice": 540.0
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "lotSize": 150,
+    "strikeStep": 50.0,
+    "approxPrice": 5100.0
+  },
+  {
+    "symbol": "HINDALCO",
+    "lotSize": 700,
+    "strikeStep": 10.0,
+    "approxPrice": 940.0
+  },
+  {
+    "symbol": "HINDPETRO",
+    "lotSize": 2025,
+    "strikeStep": 5.0,
+    "approxPrice": 350.0
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "lotSize": 300,
+    "strikeStep": 20.0,
+    "approxPrice": 1940.0
+  },
+  {
+    "symbol": "HINDZINC",
+    "lotSize": 1225,
+    "strikeStep": 10.0,
+    "approxPrice": 580.0
+  },
+  {
+    "symbol": "HYUNDAI",
+    "lotSize": 275,
+    "strikeStep": 20.0,
+    "approxPrice": 2040.0
+  },
+  {
+    "symbol": "ICICIBANK",
+    "lotSize": 700,
+    "strikeStep": 10.0,
+    "approxPrice": 1370.0
+  },
+  {
+    "symbol": "ICICIGI",
+    "lotSize": 325,
+    "strikeStep": 20.0,
+    "approxPrice": 1560.0
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "lotSize": 925,
+    "strikeStep": 5.0,
+    "approxPrice": 480.0
+  },
+  {
+    "symbol": "IDEA",
+    "lotSize": 71475,
+    "strikeStep": 1.0,
+    "approxPrice": 15.0
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "lotSize": 9275,
+    "strikeStep": 1.0,
+    "approxPrice": 83.0
+  },
+  {
+    "symbol": "IEX",
+    "lotSize": 4350,
+    "strikeStep": 0.5,
+    "approxPrice": 110.0
+  },
+  {
+    "symbol": "INDHOTEL",
+    "lotSize": 1000,
+    "strikeStep": 10.0,
+    "approxPrice": 730.0
+  },
+  {
+    "symbol": "INDIANB",
+    "lotSize": 1000,
+    "strikeStep": 10.0,
+    "approxPrice": 850.0
+  },
+  {
+    "symbol": "INDIGO",
+    "lotSize": 150,
+    "strikeStep": 50.0,
+    "approxPrice": 4950.0
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "lotSize": 700,
+    "strikeStep": 10.0,
+    "approxPrice": 920.0
+  },
+  {
+    "symbol": "INDUSTOWER",
+    "lotSize": 1700,
+    "strikeStep": 5.0,
+    "approxPrice": 375.0
+  },
+  {
+    "symbol": "INFY",
+    "lotSize": 400,
+    "strikeStep": 20.0,
+    "approxPrice": 1080.0
+  },
+  {
+    "symbol": "INOXWIND",
+    "lotSize": 6400,
+    "strikeStep": 0.5,
+    "approxPrice": 69.0
+  },
+  {
+    "symbol": "IOC",
+    "lotSize": 4875,
+    "strikeStep": 0.5,
+    "approxPrice": 132.0
+  },
+  {
+    "symbol": "IREDA",
+    "lotSize": 4525,
+    "strikeStep": 0.5,
+    "approxPrice": 111.0
+  },
+  {
+    "symbol": "IRFC",
+    "lotSize": 5425,
+    "strikeStep": 1.0,
+    "approxPrice": 81.0
+  },
+  {
+    "symbol": "ITC",
+    "lotSize": 1725,
+    "strikeStep": 2.5,
+    "approxPrice": 267.5
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "lotSize": 625,
+    "strikeStep": 20.0,
+    "approxPrice": 1100.0
+  },
+  {
+    "symbol": "JIOFIN",
+    "lotSize": 2350,
+    "strikeStep": 2.5,
+    "approxPrice": 232.5
+  },
+  {
+    "symbol": "JSWENERGY",
+    "lotSize": 1075,
+    "strikeStep": 10.0,
+    "approxPrice": 500.0
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "lotSize": 675,
+    "strikeStep": 10.0,
+    "approxPrice": 1230.0
+  },
+  {
+    "symbol": "JUBLFOOD",
+    "lotSize": 1250,
+    "strikeStep": 5.0,
+    "approxPrice": 470.0
+  },
+  {
+    "symbol": "KALYANKJIL",
+    "lotSize": 1350,
+    "strikeStep": 10.0,
+    "approxPrice": 570.0
+  },
+  {
+    "symbol": "KAYNES",
+    "lotSize": 150,
+    "strikeStep": 50.0,
+    "approxPrice": 3450.0
+  },
+  {
+    "symbol": "KEI",
+    "lotSize": 175,
+    "strikeStep": 100.0,
+    "approxPrice": 5000.0
+  },
+  {
+    "symbol": "KFINTECH",
+    "lotSize": 575,
+    "strikeStep": 20.0,
+    "approxPrice": 900.0
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "lotSize": 2000,
+    "strikeStep": 5.0,
+    "approxPrice": 425.0
+  },
+  {
+    "symbol": "KPITTECH",
+    "lotSize": 775,
+    "strikeStep": 10.0,
+    "approxPrice": 550.0
+  },
+  {
+    "symbol": "LAURUSLABS",
+    "lotSize": 850,
+    "strikeStep": 20.0,
+    "approxPrice": 2000.0
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "lotSize": 1000,
+    "strikeStep": 5.0,
+    "approxPrice": 530.0
+  },
+  {
+    "symbol": "LICI",
+    "lotSize": 1400,
+    "strikeStep": 5.0,
+    "approxPrice": 400.0
+  },
+  {
+    "symbol": "LODHA",
+    "lotSize": 625,
+    "strikeStep": 20.0,
+    "approxPrice": 1140.0
+  },
+  {
+    "symbol": "LT",
+    "lotSize": 175,
+    "strikeStep": 50.0,
+    "approxPrice": 3850.0
+  },
+  {
+    "symbol": "LTF",
+    "lotSize": 2250,
+    "strikeStep": 5.0,
+    "approxPrice": 290.0
+  },
+  {
+    "symbol": "LTM",
+    "lotSize": 150,
+    "strikeStep": 50.0,
+    "approxPrice": 4350.0
+  },
+  {
+    "symbol": "LUPIN",
+    "lotSize": 425,
+    "strikeStep": 20.0,
+    "approxPrice": 2080.0
+  },
+  {
+    "symbol": "M&M",
+    "lotSize": 200,
+    "strikeStep": 50.0,
+    "approxPrice": 3100.0
+  },
+  {
+    "symbol": "MAHABANK",
+    "lotSize": 6500,
+    "strikeStep": 1.0,
+    "approxPrice": 83.0
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "lotSize": 3000,
+    "strikeStep": 5.0,
+    "approxPrice": 320.0
+  },
+  {
+    "symbol": "MANKIND",
+    "lotSize": 250,
+    "strikeStep": 20.0,
+    "approxPrice": 2440.0
+  },
+  {
+    "symbol": "MARICO",
+    "lotSize": 1200,
+    "strikeStep": 10.0,
+    "approxPrice": 810.0
+  },
+  {
+    "symbol": "MARUTI",
+    "lotSize": 50,
+    "strikeStep": 100.0,
+    "approxPrice": 12200.0
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "lotSize": 525,
+    "strikeStep": 10.0,
+    "approxPrice": 950.0
+  },
+  {
+    "symbol": "MAZDOCK",
+    "lotSize": 225,
+    "strikeStep": 10.0,
+    "approxPrice": 2150.0
+  },
+  {
+    "symbol": "MCX",
+    "lotSize": 225,
+    "strikeStep": 50.0,
+    "approxPrice": 3300.0
+  },
+  {
+    "symbol": "MFSL",
+    "lotSize": 400,
+    "strikeStep": 20.0,
+    "approxPrice": 1420.0
+  },
+  {
+    "symbol": "MOTHERSON",
+    "lotSize": 6150,
+    "strikeStep": 2.5,
+    "approxPrice": 160.0
+  },
+  {
+    "symbol": "MOTILALOFS",
+    "lotSize": 775,
+    "strikeStep": 20.0,
+    "approxPrice": 1040.0
+  },
+  {
+    "symbol": "MPHASIS",
+    "lotSize": 275,
+    "strikeStep": 50.0,
+    "approxPrice": 2350.0
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "lotSize": 275,
+    "strikeStep": 50.0,
+    "approxPrice": 2850.0
+  },
+  {
+    "symbol": "NAM-INDIA",
+    "lotSize": 625,
+    "strikeStep": 20.0,
+    "approxPrice": 1140.0
+  },
+  {
+    "symbol": "NATIONALUM",
+    "lotSize": 1875,
+    "strikeStep": 5.0,
+    "approxPrice": 340.0
+  },
+  {
+    "symbol": "NAUKRI",
+    "lotSize": 550,
+    "strikeStep": 20.0,
+    "approxPrice": 1260.0
+  },
+  {
+    "symbol": "NBCC",
+    "lotSize": 6500,
+    "strikeStep": 0.5,
+    "approxPrice": 80.0
+  },
+  {
+    "symbol": "NESTLEIND",
+    "lotSize": 500,
+    "strikeStep": 10.0,
+    "approxPrice": 1360.0
+  },
+  {
+    "symbol": "NHPC",
+    "lotSize": 6950,
+    "strikeStep": 1.0,
+    "approxPrice": 75.0
+  },
+  {
+    "symbol": "NMDC",
+    "lotSize": 6750,
+    "strikeStep": 1.0,
+    "approxPrice": 80.0
+  },
+  {
+    "symbol": "NTPC",
+    "lotSize": 1500,
+    "strikeStep": 2.5,
+    "approxPrice": 322.5
+  },
+  {
+    "symbol": "NYKAA",
+    "lotSize": 3125,
+    "strikeStep": 5.0,
+    "approxPrice": 335.0
+  },
+  {
+    "symbol": "OBEROIRLTY",
+    "lotSize": 350,
+    "strikeStep": 20.0,
+    "approxPrice": 1800.0
+  },
+  {
+    "symbol": "OFSS",
+    "lotSize": 100,
+    "strikeStep": 50.0,
+    "approxPrice": 11000.0
+  },
+  {
+    "symbol": "OIL",
+    "lotSize": 1400,
+    "strikeStep": 5.0,
+    "approxPrice": 460.0
+  },
+  {
+    "symbol": "ONGC",
+    "lotSize": 2250,
+    "strikeStep": 2.5,
+    "approxPrice": 230.0
+  },
+  {
+    "symbol": "PAGEIND",
+    "lotSize": 20,
+    "strikeStep": 500.0,
+    "approxPrice": 37000.0
+  },
+  {
+    "symbol": "PATANJALI",
+    "lotSize": 1075,
+    "strikeStep": 5.0,
+    "approxPrice": 380.0
+  },
+  {
+    "symbol": "PAYTM",
+    "lotSize": 725,
+    "strikeStep": 20.0,
+    "approxPrice": 1720.0
+  },
+  {
+    "symbol": "PERSISTENT",
+    "lotSize": 125,
+    "strikeStep": 100.0,
+    "approxPrice": 5600.0
+  },
+  {
+    "symbol": "PETRONET",
+    "lotSize": 1900,
+    "strikeStep": 2.5,
+    "approxPrice": 292.5
+  },
+  {
+    "symbol": "PFC",
+    "lotSize": 1300,
+    "strikeStep": 5.0,
+    "approxPrice": 345.0
+  },
+  {
+    "symbol": "PGEL",
+    "lotSize": 950,
+    "strikeStep": 10.0,
+    "approxPrice": 530.0
+  },
+  {
+    "symbol": "PHOENIXLTD",
+    "lotSize": 350,
+    "strikeStep": 20.0,
+    "approxPrice": 1880.0
+  },
+  {
+    "symbol": "PIDILITIND",
+    "lotSize": 500,
+    "strikeStep": 20.0,
+    "approxPrice": 1560.0
+  },
+  {
+    "symbol": "PIIND",
+    "lotSize": 175,
+    "strikeStep": 10.0,
+    "approxPrice": 2280.0
+  },
+  {
+    "symbol": "PNB",
+    "lotSize": 8000,
+    "strikeStep": 1.0,
+    "approxPrice": 115.0
+  },
+  {
+    "symbol": "PNBHOUSING",
+    "lotSize": 650,
+    "strikeStep": 20.0,
+    "approxPrice": 1160.0
+  },
+  {
+    "symbol": "POLICYBZR",
+    "lotSize": 350,
+    "strikeStep": 20.0,
+    "approxPrice": 1420.0
+  },
+  {
+    "symbol": "POLYCAB",
+    "lotSize": 125,
+    "strikeStep": 100.0,
+    "approxPrice": 8500.0
+  },
+  {
+    "symbol": "POWERGRID",
+    "lotSize": 1900,
+    "strikeStep": 2.5,
+    "approxPrice": 257.5
+  },
+  {
+    "symbol": "POWERINDIA",
+    "lotSize": 25,
+    "strikeStep": 500.0,
+    "approxPrice": 31000.0
+  },
+  {
+    "symbol": "PREMIERENE",
+    "lotSize": 650,
+    "strikeStep": 20.0,
+    "approxPrice": 960.0
+  },
+  {
+    "symbol": "PRESTIGE",
+    "lotSize": 450,
+    "strikeStep": 20.0,
+    "approxPrice": 1500.0
+  },
+  {
+    "symbol": "RADICO",
+    "lotSize": 150,
+    "strikeStep": 50.0,
+    "approxPrice": 4450.0
+  },
+  {
+    "symbol": "RBLBANK",
+    "lotSize": 3175,
+    "strikeStep": 5.0,
+    "approxPrice": 405.0
+  },
+  {
+    "symbol": "RECLTD",
+    "lotSize": 1575,
+    "strikeStep": 5.0,
+    "approxPrice": 315.0
+  },
+  {
+    "symbol": "RELIANCE",
+    "lotSize": 500,
+    "strikeStep": 10.0,
+    "approxPrice": 1240.0
+  },
+  {
+    "symbol": "RVNL",
+    "lotSize": 1925,
+    "strikeStep": 2.5,
+    "approxPrice": 202.5
+  },
+  {
+    "symbol": "SAGILITY",
+    "lotSize": 12000,
+    "strikeStep": 1.0,
+    "approxPrice": 45.0
+  },
+  {
+    "symbol": "SAIL",
+    "lotSize": 4700,
+    "strikeStep": 2.5,
+    "approxPrice": 175.0
+  },
+  {
+    "symbol": "SBICARD",
+    "lotSize": 800,
+    "strikeStep": 10.0,
+    "approxPrice": 620.0
+  },
+  {
+    "symbol": "SBILIFE",
+    "lotSize": 375,
+    "strikeStep": 20.0,
+    "approxPrice": 1700.0
+  },
+  {
+    "symbol": "SBIN",
+    "lotSize": 750,
+    "strikeStep": 10.0,
+    "approxPrice": 1010.0
+  },
+  {
+    "symbol": "SHREECEM",
+    "lotSize": 25,
+    "strikeStep": 250.0,
+    "approxPrice": 22750.0
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "lotSize": 825,
+    "strikeStep": 20.0,
+    "approxPrice": 1000.0
+  },
+  {
+    "symbol": "SIEMENS",
+    "lotSize": 175,
+    "strikeStep": 50.0,
+    "approxPrice": 3850.0
+  },
+  {
+    "symbol": "SOLARINDS",
+    "lotSize": 50,
+    "strikeStep": 250.0,
+    "approxPrice": 20250.0
+  },
+  {
+    "symbol": "SONACOMS",
+    "lotSize": 1225,
+    "strikeStep": 10.0,
+    "approxPrice": 800.0
+  },
+  {
+    "symbol": "SRF",
+    "lotSize": 200,
+    "strikeStep": 10.0,
+    "approxPrice": 2500.0
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "lotSize": 350,
+    "strikeStep": 20.0,
+    "approxPrice": 1840.0
+  },
+  {
+    "symbol": "SUPREMEIND",
+    "lotSize": 175,
+    "strikeStep": 50.0,
+    "approxPrice": 3500.0
+  },
+  {
+    "symbol": "SUZLON",
+    "lotSize": 12700,
+    "strikeStep": 1.0,
+    "approxPrice": 42.0
+  },
+  {
+    "symbol": "SWIGGY",
+    "lotSize": 1825,
+    "strikeStep": 5.0,
+    "approxPrice": 260.0
+  },
+  {
+    "symbol": "TATACONSUM",
+    "lotSize": 550,
+    "strikeStep": 10.0,
+    "approxPrice": 990.0
+  },
+  {
+    "symbol": "TATAELXSI",
+    "lotSize": 125,
+    "strikeStep": 50.0,
+    "approxPrice": 3350.0
+  },
+  {
+    "symbol": "TATAPOWER",
+    "lotSize": 1450,
+    "strikeStep": 5.0,
+    "approxPrice": 360.0
+  },
+  {
+    "symbol": "TATASTEEL",
+    "lotSize": 2750,
+    "strikeStep": 2.5,
+    "approxPrice": 182.5
+  },
+  {
+    "symbol": "TCS",
+    "lotSize": 225,
+    "strikeStep": 20.0,
+    "approxPrice": 2240.0
+  },
+  {
+    "symbol": "TECHM",
+    "lotSize": 600,
+    "strikeStep": 20.0,
+    "approxPrice": 1540.0
+  },
+  {
+    "symbol": "TIINDIA",
+    "lotSize": 200,
+    "strikeStep": 50.0,
+    "approxPrice": 2500.0
+  },
+  {
+    "symbol": "TITAN",
+    "lotSize": 175,
+    "strikeStep": 50.0,
+    "approxPrice": 4700.0
+  },
+  {
+    "symbol": "TMPV",
+    "lotSize": 1600,
+    "strikeStep": 5.0,
+    "approxPrice": 305.0
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "lotSize": 125,
+    "strikeStep": 50.0,
+    "approxPrice": 4800.0
+  },
+  {
+    "symbol": "TRENT",
+    "lotSize": 225,
+    "strikeStep": 50.0,
+    "approxPrice": 2800.0
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "lotSize": 175,
+    "strikeStep": 50.0,
+    "approxPrice": 4100.0
+  },
+  {
+    "symbol": "UJJIVANSFB",
+    "lotSize": 8000,
+    "strikeStep": 1.0,
+    "approxPrice": 65.0
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "lotSize": 50,
+    "strikeStep": 100.0,
+    "approxPrice": 10900.0
+  },
+  {
+    "symbol": "UNIONBANK",
+    "lotSize": 4425,
+    "strikeStep": 2.5,
+    "approxPrice": 177.5
+  },
+  {
+    "symbol": "UNITDSPR",
+    "lotSize": 400,
+    "strikeStep": 20.0,
+    "approxPrice": 1420.0
+  },
+  {
+    "symbol": "UNOMINDA",
+    "lotSize": 550,
+    "strikeStep": 20.0,
+    "approxPrice": 1140.0
+  },
+  {
+    "symbol": "UPL",
+    "lotSize": 1355,
+    "strikeStep": 5.0,
+    "approxPrice": 525.0
+  },
+  {
+    "symbol": "VBL",
+    "lotSize": 1275,
+    "strikeStep": 5.0,
+    "approxPrice": 430.0
+  },
+  {
+    "symbol": "VEDL",
+    "lotSize": 1150,
+    "strikeStep": 5.0,
+    "approxPrice": 275.0
+  },
+  {
+    "symbol": "VMM",
+    "lotSize": 4850,
+    "strikeStep": 0.5,
+    "approxPrice": 101.0
+  },
+  {
+    "symbol": "VOLTAS",
+    "lotSize": 375,
+    "strikeStep": 20.0,
+    "approxPrice": 1140.0
+  },
+  {
+    "symbol": "WAAREEENER",
+    "lotSize": 175,
+    "strikeStep": 10.0,
+    "approxPrice": 2460.0
+  },
+  {
+    "symbol": "WIPRO",
+    "lotSize": 3000,
+    "strikeStep": 2.5,
+    "approxPrice": 172.5
+  },
+  {
+    "symbol": "YESBANK",
+    "lotSize": 31100,
+    "strikeStep": 1.0,
+    "approxPrice": 22.0
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "lotSize": 900,
+    "strikeStep": 10.0,
+    "approxPrice": 1170.0
+  }
+]

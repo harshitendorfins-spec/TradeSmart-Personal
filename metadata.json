@@ -1,0 +1,6 @@
+{
+  "name": "KiteFO - Virtual F&O Trading Platform",
+  "description": "Production-ready virtual Futures & Options trading terminal inspired by Zerodha Kite with real-time risk management, margin & hedge engine, SmartAPI connectivity, and financial ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
