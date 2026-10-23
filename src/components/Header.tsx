@@ -217,23 +217,14 @@ export const Header: React.FC<HeaderProps> = ({
             </span>
           </button>
 
-          {/* License Status Badge */}
-          <button
-            onClick={onOpenLicense}
-            title={license?.is_active ? `TradeSmart Pro Active (${license?.days_left}d remaining)` : 'Activate TradeSmart Pro'}
-            className={`flex items-center gap-1.5 px-2.5 py-1 text-xs rounded transition-colors cursor-pointer border ${
-              license?.is_active
-                ? 'bg-emerald-50 text-emerald-800 border-emerald-300 hover:bg-emerald-100'
-                : 'bg-rose-50 text-rose-700 border-rose-300 hover:bg-rose-100 animate-pulse'
-            }`}
+          {/* Personal Edition Badge */}
+          <div
+            title="TradeSmart Personal Terminal · Lifetime Unlimited Access"
+            className="flex items-center gap-1.5 px-2.5 py-1 text-xs rounded border bg-emerald-50 text-emerald-800 border-emerald-300 select-none shadow-xs"
           >
-            <KeyRound className="w-3.5 h-3.5" />
-            <span className="text-[11px] font-bold">
-              {license?.is_active
-                ? (license.plan === 'TRIAL' ? `Trial: ${license.days_left}d` : 'Pro Active')
-                : 'Activate Pro'}
-            </span>
-          </button>
+            <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
+            <span className="text-[11px] font-bold text-emerald-900">Personal · Lifetime</span>
+          </div>
 
           {/* Sound Toggle */}
           <button

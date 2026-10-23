@@ -141,123 +141,20 @@ def save_stored_license(data: Dict[str, Any]) -> None:
         print(f"[LicenseManager] Save error: {e}")
 
 def get_license_status() -> Dict[str, Any]:
-    """
-    Returns full license state for UI consumption:
-    {
-        "machine_id": "TS-XXXX-YYYY-ZZZZ",
-        "is_active": True/False,
-        "status": "PRO_ACTIVE" | "TRIAL_ACTIVE" | "EXPIRED" | "UNLICENSED",
-        "plan": "YEAR" | "MONTH" | "LIFETIME" | "TRIAL" | "NONE",
-        "expiry_date": "21-Oct-2027",
-        "days_left": 365,
-        "can_start_trial": True/False,
-        "message": "..."
-    }
-    """
-    machine_id = get_machine_id()
-    stored = get_stored_license() or {}
-
-    # Check paid license first
-    paid_key = stored.get("license_key")
-    if paid_key:
-        valid, msg, info = verify_license_key(paid_key, machine_id)
-        if valid and info:
-            return {
-                "machine_id": machine_id,
-                "is_active": True,
-                "status": "PRO_ACTIVE",
-                "plan": info["plan"],
-                "expiry_date": info["expiry_date"],
-                "days_left": info["days_left"],
-                "can_start_trial": False,
-                "message": f"TradeSmart Pro Active ({info['days_left']} days remaining)"
-            }
-        elif info and info.get("is_expired"):
-            return {
-                "machine_id": machine_id,
-                "is_active": False,
-                "status": "EXPIRED",
-                "plan": info["plan"],
-                "expiry_date": info["expiry_date"],
-                "days_left": 0,
-                "can_start_trial": False,
-                "message": f"Your Pro License expired on {info['expiry_date']}. Please renew to continue."
-            }
-
-    # Check 7-Day Free Trial
-    trial_start_str = stored.get("trial_started_at")
-    if trial_start_str:
-        try:
-            trial_start = datetime.fromisoformat(trial_start_str).date()
-            trial_expiry = trial_start + timedelta(days=7)
-            days_left = (trial_expiry - date.today()).days
-            if days_left >= 0:
-                return {
-                    "machine_id": machine_id,
-                    "is_active": True,
-                    "status": "TRIAL_ACTIVE",
-                    "plan": "TRIAL",
-                    "expiry_date": trial_expiry.strftime("%d-%b-%Y"),
-                    "days_left": days_left,
-                    "can_start_trial": False,
-                    "message": f"Free Trial Active ({days_left} days remaining)"
-                }
-            else:
-                return {
-                    "machine_id": machine_id,
-                    "is_active": False,
-                    "status": "EXPIRED",
-                    "plan": "TRIAL",
-                    "expiry_date": trial_expiry.strftime("%d-%b-%Y"),
-                    "days_left": 0,
-                    "can_start_trial": False,
-                    "message": "Your 7-Day Free Trial has ended. Please activate a License Key to continue trading."
-                }
-        except Exception:
-            pass
-
-    # Never activated / Unlicensed
+    """TradeSmart Personal Edition: Unlimited Lifetime Access, no DRM/machine lock."""
     return {
-        "machine_id": machine_id,
-        "is_active": False,
-        "status": "UNLICENSED",
-        "plan": "NONE",
-        "expiry_date": "",
-        "days_left": 0,
-        "can_start_trial": True,
-        "message": "License required. Start your 7-Day Free Trial or activate Pro License."
+        "machine_id": "HARSHIT-PERSONAL",
+        "is_active": True,
+        "status": "PRO_ACTIVE",
+        "plan": "LIFETIME",
+        "expiry_date": "31-Dec-2099",
+        "days_left": 99999,
+        "can_start_trial": False,
+        "message": "TradeSmart Personal Edition · Lifetime Unlimited Access"
     }
 
 def activate_license(key: str) -> Tuple[bool, str, Dict[str, Any]]:
-    """Activates a license key provided by the user."""
-    machine_id = get_machine_id()
-    valid, msg, info = verify_license_key(key, machine_id)
-    if not valid or not info:
-        return False, msg, get_license_status()
-
-    stored = get_stored_license() or {}
-    stored.update({
-        "license_key": key.strip().upper(),
-        "activated_at": datetime.now().isoformat(),
-        "machine_id": machine_id,
-        "plan": info["plan"],
-        "expires_at": info["expiry_date"]
-    })
-    save_stored_license(stored)
-    return True, f"License successfully activated! ({info['plan']} Plan active until {info['expiry_date']})", get_license_status()
+    return True, "Personal Edition is already active with Lifetime Unlimited Access.", get_license_status()
 
 def start_free_trial() -> Tuple[bool, str, Dict[str, Any]]:
-    """Starts the 7-day free trial if not already used on this machine."""
-    machine_id = get_machine_id()
-    stored = get_stored_license() or {}
-
-    if stored.get("trial_started_at"):
-        return False, "Free trial has already been used on this PC.", get_license_status()
-
-    now = datetime.now()
-    stored.update({
-        "trial_started_at": now.isoformat(),
-        "machine_id": machine_id,
-    })
-    save_stored_license(stored)
-    return True, "7-Day Free Trial started successfully! Enjoy full TradeSmart Pro features.", get_license_status()
+    return True, "Personal Edition is already active with Lifetime Unlimited Access.", get_license_status()

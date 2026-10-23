@@ -32,7 +32,6 @@ import { AnalyticsTab } from './components/AnalyticsTab';
 import { SmartAPIModal } from './components/SmartAPIModal';
 import { LoginModal } from './components/LoginModal';
 import { ChangeCredentialsModal } from './components/ChangeCredentialsModal';
-import { LicenseModal } from './components/LicenseModal';
 
 const DEFAULT_CAPITAL = 10000000; // ₹1,00,00,000 (1 Crore INR)
 
@@ -63,9 +62,7 @@ export default function App() {
       if (res.ok) {
         const data: LicenseInfo = await res.json();
         setLicense(data);
-        if (!data.is_active) {
-          setIsLicenseModalOpen(true);
-        }
+// Personal edition: No license modal
       }
     } catch (e) {
       console.error('License check error:', e);
@@ -1182,12 +1179,7 @@ export default function App() {
     stopLoss?: number;
     strategyTag: string;
   }) => {
-    // License Enforcement: Trading is blocked if license is inactive / expired
-    if (license && !license.is_active) {
-      setIsLicenseModalOpen(true);
-      soundManager.playOrderReject();
-      return;
-    }
+// Personal edition: Unlimited trading access
 
     const nowIso = new Date().toISOString();
     const orderId = `ORD-${Date.now()}`;
@@ -2188,16 +2180,6 @@ export default function App() {
         onUpdateCredentials={handleUpdateCredentials}
       />
 
-      {/* Hardware Machine-Locked License & DRM Modal */}
-      {isLicenseModalOpen && (
-        <LicenseModal
-          license={license}
-          onClose={() => setIsLicenseModalOpen(false)}
-          onActivate={handleActivateLicense}
-          onStartTrial={handleStartTrial}
-          isBlocking={license ? !license.is_active : false}
-        />
-      )}
     </div>
   );
 }

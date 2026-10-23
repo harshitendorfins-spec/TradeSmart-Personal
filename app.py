@@ -612,12 +612,8 @@ def get_orders():
 
 @app.post("/api/orders")
 def place_order(order_req: OrderCreateRequest):
+    # Personal Portal: Lifetime Unlocked (no DRM restrictions)
     lic = get_license_status()
-    if not lic.get("is_active"):
-        raise HTTPException(
-            status_code=403,
-            detail=lic.get("message") or "License required. Please activate TradeSmart Pro to place trades."
-        )
 
     account = get_account_state()
     quote = market_feed.quotes.get(order_req.symbol)
